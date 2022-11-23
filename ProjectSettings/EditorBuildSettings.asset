@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Test - VR Project/Animated Kyle Body - VR Body Test.unity
-    guid: 304d1692228e51148aea956b048f13b2
+    path: Assets/Scenes/Main Scenes - VR Project/MainHome.unity
+    guid: 14c14f0da17220b4cbf7d9c23c0276c4
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final.unity
+    guid: 967cdd2664ae81e4eb42589c88c49f2a
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final Medio Dia.unity
+    guid: 1b40628e6f073fe45b6b94d040052272
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final Noche.unity
+    guid: a463dbade4e972c448c5fda7bd393bd5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3455c53485637f344a00f47cd9c7370c, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ab472df679e8f24448ff7ad34614b403, type: 2}
