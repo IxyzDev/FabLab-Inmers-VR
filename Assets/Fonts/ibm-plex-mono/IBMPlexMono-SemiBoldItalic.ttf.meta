@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cfdaa9b224a9b7248b04cbbec315eaea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - IBM Plex Mono SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f87636c6ee810cf48ace04c6ea5753b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
