@@ -9,13 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Scenes - VR Project/MainHome.unity
     guid: 14c14f0da17220b4cbf7d9c23c0276c4
   - enabled: 1
-    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final.unity
+    path: Assets/Scenes/Main Scenes - VR Project/Playa/Beach Scene - Final.unity
     guid: 967cdd2664ae81e4eb42589c88c49f2a
   - enabled: 1
-    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final Medio Dia.unity
+    path: Assets/Scenes/Main Scenes - VR Project/Playa/Beach Scene - Final Medio
+      Dia.unity
     guid: 1b40628e6f073fe45b6b94d040052272
   - enabled: 1
-    path: Assets/Scenes/Main Scenes - VR Project/Beach Scene - Final Noche.unity
+    path: Assets/Scenes/Main Scenes - VR Project/Playa/Beach Scene - Final Noche.unity
     guid: a463dbade4e972c448c5fda7bd393bd5
   - enabled: 1
     path: Assets/Scenes/Main Scenes - VR Project/Callejon/Callejon Oscuro.unity
