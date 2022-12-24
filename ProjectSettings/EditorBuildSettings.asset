@@ -21,6 +21,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Scenes - VR Project/Callejon/Callejon Oscuro.unity
     guid: 8d991945b39253a48afa3e3573ed2d37
+  - enabled: 1
+    path: Assets/Scenes/Main Scenes - VR Project/Callejon/Callejon 2/Callejon Oscuro
+      2.unity
+    guid: 40dd4fecd81efd247b9f0d600ccb9249
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3455c53485637f344a00f47cd9c7370c, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ab472df679e8f24448ff7ad34614b403, type: 2}
